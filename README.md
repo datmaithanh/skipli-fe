@@ -91,3 +91,40 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <strong>Built with ❤️ using React and modern web technologies</strong>
 </div>
+
+
+***Describe for HR***
+
+-1. Authentication: 
+![image](https://github.com/user-attachments/assets/fa272780-a743-4edf-8c63-a59de151cefc)
+
+-2. Authentication 2: 
+![image](https://github.com/user-attachments/assets/5c138d1d-af72-41f7-9877-534df9349353)
+
+-3: Main: 
+![image](https://github.com/user-attachments/assets/37bd04a2-18a5-4014-9661-b998b25b13db)
+
+-4: Start From Scratch -1: 
+![image](https://github.com/user-attachments/assets/46935ecf-1575-4598-9996-170ef15393b3)
+
+-5: Start From Scratch -2:
+![image](https://github.com/user-attachments/assets/31a6d1c0-c3e8-4ae0-a326-481f8aa6e02d)
+![image](https://github.com/user-attachments/assets/8730b99d-3b72-4729-9236-d61c4c0859da)
+
+-6: Start From Scatch -3:
+![image](https://github.com/user-attachments/assets/75ddfe07-ba83-4cd1-b6aa-ad66a028359d)
+
+-7: Getinspired 1:
+![image](https://github.com/user-attachments/assets/9492c3e5-a755-4a17-83c7-6498aed63f9b)
+
+-8: Getinspired 2:
+![image](https://github.com/user-attachments/assets/d6b0f6c0-20be-441b-9faf-2bde553d7110)
+
+-9: Getinspired 3:
+![image](https://github.com/user-attachments/assets/5a733b3c-5dbf-48ae-ace4-131216402a61)
+
+-10: Getinspired 4:
+![image](https://github.com/user-attachments/assets/28f9006a-ab95-44c5-a167-b7f576e84493)
+
+-11: Saved Content:
+![image](https://github.com/user-attachments/assets/956fc4de-2e4b-4d44-8c77-186f153fcd5d)
